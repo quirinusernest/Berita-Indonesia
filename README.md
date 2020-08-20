@@ -10,6 +10,7 @@ Isi Aplikasi:
 1. Splash Screen
 2. Register Firebase
 3. Login Firebase
-4. Berita dari Api
-5. Detail berita
+4. Pilihan berita: berita utama, olahraga, teknologi, bisnis, kesehatan, hiburan
+5. Tampilan list berita
+6. Detail berita
 

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "166983032288",
+    "firebase_url": "https://beritaindonesia-f65eb.firebaseio.com",
+    "project_id": "beritaindonesia-f65eb",
+    "storage_bucket": "beritaindonesia-f65eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:166983032288:android:d1b68c28c42547a669df85",
+        "android_client_info": {
+          "package_name": "id.mobilecomputing.beritaindonesia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "166983032288-q7unjmgpviilg13ev8k2n8ub2t8od3na.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ_XqwaEAvoZM5ytLBjOw6E0RZrDwMf30"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "166983032288-q7unjmgpviilg13ev8k2n8ub2t8od3na.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
